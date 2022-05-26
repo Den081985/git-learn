@@ -1,3 +1,3 @@
-Hello,New Repo!
-No code No pain
-Some changes
+Git learning
+new line
+New adding
